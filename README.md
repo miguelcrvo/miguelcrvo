@@ -1,21 +1,29 @@
-## Oi, Eu sou o Miguel Carvalho, estudante de JavaScript.
+<h4 align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelcrvo&theme=radical)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-  <div>
+<hr>
   
-  ##
-  
-  <a href="https://instagram.com/miguelcrvo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/miguelcrvo)](https://www.instagram.com/miguelcrvo/)
+ </h4>
  
+ <h3 align="center">  <br>
+  
+  Olá, eu sou o Miguel! 🇧🇷
+  <br>
+  
+  ## Tecnologias que estou estudando atualmente 💻
+    - HTML
+    - CSS
+    - JavaScript
+ 
+  ## Meus dados no Github
+  
+ <!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcrvo&show_icons=true&theme=tokyonight)
+</span> -->
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcrvo&show_icons=true&theme=tokyonight)
+  [![miguelcrvo](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcrvo&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/miguelcrvo/)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
   ![Snake animation](https://github.com/miguelcrvo/miguelcrvo/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
