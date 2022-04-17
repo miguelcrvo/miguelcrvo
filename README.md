@@ -1,4 +1,4 @@
-## Olá, Eu sou o Miguel Carvalho...
+## Oi, Eu sou o Miguel Carvalho.
 
 - 🔭 Hoje em dia eu trabalho em nenhuma área
 - 🌱 Estudando JavaScript
