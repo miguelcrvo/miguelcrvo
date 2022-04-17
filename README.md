@@ -1,13 +1,12 @@
-## Oi, Eu sou o Miguel Carvalho.
+## Oi, Eu sou o Miguel Carvalho, estudante de JavaScript.
 
-- 🔭 Hoje em dia eu trabalho em nenhuma área
-- 🌱 Estudando JavaScript
-- 😄 Pronomes: ele/dele
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelcrvo&theme=radical)
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
  
   <div>
   
@@ -18,5 +17,3 @@
   ![Snake animation](https://github.com/miguelcrvo/miguelcrvo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-![GitHub Stats}(https://github-readme-stats.vercel.app/api?username=curiousgrid&theme=radical)
