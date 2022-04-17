@@ -18,3 +18,5 @@
   ![Snake animation](https://github.com/miguelcrvo/miguelcrvo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+![GitHub Stats}(https://github-readme-stats.vercel.app/api?username=curiousgrid&theme=radical)
