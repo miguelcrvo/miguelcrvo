@@ -15,7 +15,6 @@
   ## Tecnologias que estou estudando atualmente 💻
     - HTML
     - CSS
-    - JavaScript
  
   ## Meus dados no Github
   
